@@ -1,0 +1,485 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA_pro/17.1
+vadder
+Z0 !s110 1574198258
+!i10b 1
+!s100 bHKU;YaUK0FngO0KM2b?51
+I:VicZ2cG^BcL09z1Am]6g2
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dE:/Mips Project/MIPS-master/MIPS-master
+Z3 w1572743407
+Z4 8Adder.v
+Z5 FAdder.v
+L0 2
+Z6 OP;L;10.4a;61
+r1
+!s85 0
+31
+Z7 !s108 1574198258.000000
+Z8 !s107 Top.v|SLL_Generic.v|Sign_Extension.v|RF.v|PC.v|MUX_2to1.v|Jump.v|Instruction_Register.v|IM.v|Data_Memory.v|Control.v|clock.v|ALU.v|Adder.v|
+Z9 !s90 Adder.v|ALU.v|clock.v|Control.v|Data_Memory.v|IM.v|Instruction_Register.v|Jump.v|MUX_2to1.v|PC.v|RF.v|Sign_Extension.v|SLL_Generic.v|Top.v|
+!s101 -O0
+!i113 1
+Z10 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+vALU
+R0
+!i10b 1
+!s100 EfcQJL4;B7gf`laNjoh^;0
+Ibh1GTkmj>n>LJeOgEfK;O0
+R1
+R2
+R3
+8ALU.v
+FALU.v
+L0 2
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!s101 -O0
+!i113 1
+R10
+n@a@l@u
+vALU_Control
+R0
+!i10b 1
+!s100 7AkaLiQRm3DNmDA;ZN[V31
+IRT]>eXXemTA[LgzY^^6;h1
+R1
+R2
+R3
+8Control.v
+FControl.v
+L0 3
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!s101 -O0
+!i113 1
+R10
+n@a@l@u_@control
+vAnd
+R0
+!i10b 1
+!s100 3N^<65l<1V3:lIih4jkYO2
+IXbe__9B^if9C@ffJ_8jS@1
+R1
+R2
+R3
+R4
+R5
+L0 15
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!s101 -O0
+!i113 1
+R10
+n@and
+vclock
+R0
+!i10b 1
+!s100 anZ1SWZH5bX4l8fT:KQ7F2
+Ih]1mn3Vz0Tn6ZZIjfmAkP1
+R1
+R2
+R3
+Z11 8clock.v
+Z12 Fclock.v
+L0 21
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!s101 -O0
+!i113 1
+R10
+vclock_gen
+R0
+!i10b 1
+!s100 RRSnYGM6jo]nR`CYh4hXP1
+Ij`;;PXI:zhREd05n[CDnQ3
+R1
+R2
+R3
+R11
+R12
+L0 2
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!s101 -O0
+!i113 1
+R10
+vdataMemory
+R0
+!i10b 1
+!s100 i4?IKejJeDRXlPI0ck4c<2
+IEOTn7FVEdOD^`?K_07SN81
+R1
+R2
+w1572958311
+8Data_Memory.v
+FData_Memory.v
+L0 2
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!s101 -O0
+!i113 1
+R10
+ndata@memory
+vinstruction_memory
+R0
+!i10b 1
+!s100 gS[AhDKg2f`gHV^:5@C^l2
+I9V;^ZGdXdW=bTG0GZaDNX2
+R1
+R2
+w1574195845
+8IM.v
+FIM.v
+L0 1
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!s101 -O0
+!i113 1
+R10
+vinstruction_reg
+R0
+!i10b 1
+!s100 O`0d^HA@^kgVjilO=e?DO2
+IPVUb@iY4z8cWkn1OPJY[d2
+R1
+R2
+R3
+8Instruction_Register.v
+FInstruction_Register.v
+L0 2
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!s101 -O0
+!i113 1
+R10
+vjumbFullAddress
+R0
+!i10b 1
+!s100 8EW@bUJYK`?L55:dTL@Ib0
+I9jh7oz^6B^Gl8YL3VgTZc3
+R1
+R2
+R3
+Z13 8Jump.v
+Z14 FJump.v
+L0 24
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!s101 -O0
+!i113 1
+R10
+njumb@full@address
+vmips
+R0
+!i10b 1
+!s100 R5hN3KW>R_4>6ZUC8Vf6F2
+IzGU3R9[[J]S>94<OlchB30
+R1
+R2
+R3
+8Top.v
+FTop.v
+L0 2
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!s101 -O0
+!i113 1
+R10
+vMux2to1_alu
+R0
+!i10b 1
+!s100 ]2Wnd1Q02mJiDJVJc^OJT3
+IM7Fc6?fhG<QT?LX_k4ad12
+R1
+R2
+R3
+Z15 8MUX_2to1.v
+Z16 FMUX_2to1.v
+L0 19
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!s101 -O0
+!i113 1
+R10
+n@mux2to1_alu
+vMux2to1_ir
+R0
+!i10b 1
+!s100 bO3`T=XeU1=FehT@kS?7j3
+IXZB;^R^6UIM=U]=Em7ObR0
+R1
+R2
+R3
+R15
+R16
+L0 2
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!s101 -O0
+!i113 1
+R10
+n@mux2to1_ir
+vMux3to1_31bit
+R0
+!i10b 1
+!s100 `Eh>OL>jfQT;6jc?T9VJD1
+IQai>S@b2Pj<=bSJPHdGz21
+R1
+R2
+R3
+R15
+R16
+L0 37
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!s101 -O0
+!i113 1
+R10
+n@mux3to1_31bit
+vMux3to1_5bit
+R0
+!i10b 1
+!s100 91eV`R=9G5emYQ<QP5llB0
+IiOA0k2bVhdEE_PzSOC]ZM3
+R1
+R2
+R3
+R15
+R16
+L0 62
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!s101 -O0
+!i113 1
+R10
+n@mux3to1_5bit
+vprogram_counter
+R0
+!i10b 1
+!s100 zaneR_3OOBY[UKnKdf<cN3
+ISQninI029DSLBXmN^kBCJ1
+R1
+R2
+R3
+8PC.v
+FPC.v
+L0 1
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!s101 -O0
+!i113 1
+R10
+vregisterFileTestBench
+R0
+!i10b 1
+!s100 ERhJYNNkaRM3>S@XeM7?b1
+IjcF2:b69OOSX3z7o?:C_A3
+R1
+R2
+Z17 w1574196071
+Z18 8RF.v
+Z19 FRF.v
+L0 45
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!s101 -O0
+!i113 1
+R10
+nregister@file@test@bench
+vresfile
+R0
+!i10b 1
+!s100 bCi]RF^D:78VL1NCbiEak3
+IkhcXY5zomSn=2=dLNj>zO1
+R1
+R2
+R17
+R18
+R19
+L0 2
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!s101 -O0
+!i113 1
+R10
+vsign_extend
+R0
+!i10b 1
+!s100 ;NnJdQB;Z>lU7>lZ9VAOF0
+ITY]M4V]JdB_4DzoSBQhMY3
+R1
+R2
+R3
+8Sign_Extension.v
+FSign_Extension.v
+L0 2
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!s101 -O0
+!i113 1
+R10
+vSLL_26
+R0
+!i10b 1
+!s100 BiM7@nRR4^`7Cij2^>AG83
+IKiYVgD1SZ6K]5egJ^UzZZ3
+R1
+R2
+R3
+R13
+R14
+L0 2
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!s101 -O0
+!i113 1
+R10
+n@s@l@l_26
+vSLL_32
+R0
+!i10b 1
+!s100 0BUVW=WNia=6@>ieMHbia1
+IoNTzYLZ;2I[l>h;O5jkWO1
+R1
+R2
+R3
+R13
+R14
+L0 12
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!s101 -O0
+!i113 1
+R10
+n@s@l@l_32
+vSll_Generic
+R0
+!i10b 1
+!s100 <H9clIjK4GX`?[;0UlGJC2
+IDJ=ZM@]G@64A^2KOz94>?3
+R1
+R2
+R3
+8SLL_Generic.v
+FSLL_Generic.v
+L0 2
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!s101 -O0
+!i113 1
+R10
+n@sll_@generic

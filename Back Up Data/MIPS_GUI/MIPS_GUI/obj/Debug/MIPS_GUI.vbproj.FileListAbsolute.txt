@@ -1,0 +1,28 @@
+C:\Users\Mohamed Amr\source\repos\MIPS_GUI\MIPS_GUI\bin\Debug\MIPS_GUI.exe.config
+C:\Users\Mohamed Amr\source\repos\MIPS_GUI\MIPS_GUI\bin\Debug\MIPS_GUI.exe
+C:\Users\Mohamed Amr\source\repos\MIPS_GUI\MIPS_GUI\bin\Debug\MIPS_GUI.pdb
+C:\Users\Mohamed Amr\source\repos\MIPS_GUI\MIPS_GUI\bin\Debug\MIPS_GUI.xml
+C:\Users\Mohamed Amr\source\repos\MIPS_GUI\MIPS_GUI\obj\Debug\MIPS_GUI.vbprojAssemblyReference.cache
+C:\Users\Mohamed Amr\source\repos\MIPS_GUI\MIPS_GUI\obj\Debug\MIPS_GUI.Form1.resources
+C:\Users\Mohamed Amr\source\repos\MIPS_GUI\MIPS_GUI\obj\Debug\MIPS_GUI.Resources.resources
+C:\Users\Mohamed Amr\source\repos\MIPS_GUI\MIPS_GUI\obj\Debug\MIPS_GUI.vbproj.GenerateResource.cache
+C:\Users\Mohamed Amr\source\repos\MIPS_GUI\MIPS_GUI\obj\Debug\MIPS_GUI.vbproj.CoreCompileInputs.cache
+C:\Users\Mohamed Amr\source\repos\MIPS_GUI\MIPS_GUI\obj\Debug\MIPS_GUI.exe
+C:\Users\Mohamed Amr\source\repos\MIPS_GUI\MIPS_GUI\obj\Debug\MIPS_GUI.xml
+C:\Users\Mohamed Amr\source\repos\MIPS_GUI\MIPS_GUI\obj\Debug\MIPS_GUI.pdb
+C:\Users\Mohamed Amr\source\repos\MIPS_GUI\MIPS_GUI\obj\Debug\MIPS_GUI.Form2.resources
+C:\Users\Mohamed Amr\source\repos\MIPS_GUI\MIPS_GUI\obj\Debug\MIPS_GUI.Form3.resources
+E:\Mips Project\Back Up Data\MIPS_GUI\MIPS_GUI\bin\Debug\MIPS_GUI.exe.config
+E:\Mips Project\Back Up Data\MIPS_GUI\MIPS_GUI\bin\Debug\MIPS_GUI.exe
+E:\Mips Project\Back Up Data\MIPS_GUI\MIPS_GUI\bin\Debug\MIPS_GUI.pdb
+E:\Mips Project\Back Up Data\MIPS_GUI\MIPS_GUI\bin\Debug\MIPS_GUI.xml
+E:\Mips Project\Back Up Data\MIPS_GUI\MIPS_GUI\obj\Debug\MIPS_GUI.vbprojAssemblyReference.cache
+E:\Mips Project\Back Up Data\MIPS_GUI\MIPS_GUI\obj\Debug\MIPS_GUI.Form1.resources
+E:\Mips Project\Back Up Data\MIPS_GUI\MIPS_GUI\obj\Debug\MIPS_GUI.Form2.resources
+E:\Mips Project\Back Up Data\MIPS_GUI\MIPS_GUI\obj\Debug\MIPS_GUI.Form3.resources
+E:\Mips Project\Back Up Data\MIPS_GUI\MIPS_GUI\obj\Debug\MIPS_GUI.Resources.resources
+E:\Mips Project\Back Up Data\MIPS_GUI\MIPS_GUI\obj\Debug\MIPS_GUI.vbproj.GenerateResource.cache
+E:\Mips Project\Back Up Data\MIPS_GUI\MIPS_GUI\obj\Debug\MIPS_GUI.vbproj.CoreCompileInputs.cache
+E:\Mips Project\Back Up Data\MIPS_GUI\MIPS_GUI\obj\Debug\MIPS_GUI.exe
+E:\Mips Project\Back Up Data\MIPS_GUI\MIPS_GUI\obj\Debug\MIPS_GUI.xml
+E:\Mips Project\Back Up Data\MIPS_GUI\MIPS_GUI\obj\Debug\MIPS_GUI.pdb

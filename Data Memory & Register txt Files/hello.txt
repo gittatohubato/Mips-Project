@@ -1,0 +1,23 @@
+fnadd3:add $t5,$a0,$a1
+add $v0,$t5,$a2
+jr $ra
+main:add $s0,$zero,$zero
+addi $s1,$zero,1
+or $t1,$s0,$s1
+ori $t3,$zero,3
+sll $t6,$t3,1
+and $t0,$s1,$s0
+addi $s5,$zero,44
+jr $s5
+loop: sw $t6,4($s0)
+sw $t6,8($s0)
+sw $t6,12($s0)
+lw $a0,4($s0)
+lw $a1,8($s0)
+lw $a2,12($s0)
+jal fnadd3
+add $s3,$s3,$v0
+addi $t6,$t6,-1
+beq $t6,$zero,exit
+j loop
+exit:
